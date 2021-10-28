@@ -1,0 +1,1 @@
+to use premade gates, copy them from the 'Gates' folder to %userprofile%\appdata\locallow\CompHardwareSim
